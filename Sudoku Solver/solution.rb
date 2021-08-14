@@ -1,0 +1,3 @@
+def sudoku(puzzle)
+		
+end
